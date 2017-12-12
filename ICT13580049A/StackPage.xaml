@@ -46,40 +46,34 @@
                         WidthRequest="100" />
                 </StackLayout>
             </ScrollView>
-
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
+                Placeholder="Input text here" />
             <Entry
-            Placeholder="Input text here"/>
-
-           
-
-
-            
+                Placeholder="Input text here" />
         </StackLayout>
     </ScrollView>
 </ContentPage>

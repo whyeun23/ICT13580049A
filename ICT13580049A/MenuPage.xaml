@@ -9,10 +9,10 @@
         <Grid.RowDefinitions>
             <RowDefinition
                 Height="200" />
-            <RowDefinition/>
+            <RowDefinition />
         </Grid.RowDefinitions>
         <BoxView
-            Color="#e3bf8b"/>
+            Color="#e3bf8b" />
         <StackLayout
             Orientation="Vertical"
             VerticalOptions="End"
@@ -22,21 +22,21 @@
                 HeightRequest="100"
                 WidthRequest="100"
                 HorizontalOptions="Start"
-                BackgroundColor="Silver"/>
+                BackgroundColor="Silver" />
             <Label
                 Text="Hyun minhyun"
                 TextColor="White"
                 FontAttributes="Bold"
-                FontSize="12"/>
+                FontSize="12" />
             <Label
                 Text="minminky@live.com"
                 TextColor="White"
                 FontAttributes="Bold"
-                FontSize="12"/>
-            </StackLayout>
+                FontSize="12" />
+        </StackLayout>
         <BoxView
             Grid.Row="1"
-            Color="Gray"/>
+            Color="Gray" />
         <ScrollView
             Grid.Row="1">
             <StackLayout
@@ -46,60 +46,58 @@
                     Text="View"
                     TextColor="White"
                     HorizontalTextAlignment="Center"
-                    FontAttributes="Bold"/>
+                    FontAttributes="Bold" />
                 <Button
                     x:Name="viewButton"
                     Text="All View"
-                    BackgroundColor="Silver"/>
+                    BackgroundColor="Silver" />
                 <BoxView
                     Color="White"
-                    HeightRequest="3" 
+                    HeightRequest="3"
                     Margin="10" />
                 <Label
                     Text="Layout"
                     TextColor="White"
                     HorizontalTextAlignment="Center"
-                    FontAttributes="Bold"/>
-                 <Button
+                    FontAttributes="Bold" />
+                <Button
                     x:Name="stackButton"
                     Text="Stack Page"
-                    BackgroundColor="Silver"/>
-                 <Button
+                    BackgroundColor="Silver" />
+                <Button
                     x:Name="gridButton"
                     Text="Grid Layout"
-                    BackgroundColor="Silver"/>
-                 <Button
+                    BackgroundColor="Silver" />
+                <Button
                     x:Name="absoluteButton"
                     Text="Absolute Layout"
-                    BackgroundColor="Silver"/>
-
+                    BackgroundColor="Silver" />
                 <BoxView
                     Color="White"
                     HeightRequest="3"
-                    Margin="10"/>
+                    Margin="10" />
                 <Label
-                    Text="Page"   
+                    Text="Page"
                     TextColor="White"
                     HorizontalTextAlignment="Center"
-                    FontAttributes="Bold"/>
+                    FontAttributes="Bold" />
                 <Button
                     x:Name="contentButton"
                     Text="Content View"
-                    BackgroundColor="Silver"/>
+                    BackgroundColor="Silver" />
                 <Button
                     x:Name="navigationButton"
                     Text="Navigation Page"
-                    BackgroundColor="Silver"/>
-                                <Button
+                    BackgroundColor="Silver" />
+                <Button
                     x:Name="tabButton"
                     Text="Tabbed Page"
-                    BackgroundColor="Silver"/>
-                                <Button
+                    BackgroundColor="Silver" />
+                <Button
                     x:Name="carouseButton"
                     Text="Carousel Page"
-                    BackgroundColor="Silver"/>
-                </StackLayout>
-            </ScrollView>
+                    BackgroundColor="Silver" />
+            </StackLayout>
+        </ScrollView>
     </Grid>
-
 </ContentPage>

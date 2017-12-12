@@ -1,18 +1,37 @@
 ﻿<Properties StartupConfiguration="{0CA0D0DF-C5C3-490A-971D-4FFE0B8693F0}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICT13580049A/TabPage3.xaml">
     <Files>
-      <File FileName="ICT13580049A/ICT13580049APage.xaml" Line="75" Column="15" />
+      <File FileName="ICT13580049A/ICT13580049APage.xaml" Line="57" Column="15" />
       <File FileName="ICT13580049A/ICT13580049APage.xaml.cs" Line="35" Column="48" />
       <File FileName="ICT13580049A/App.xaml.cs" Line="23" Column="19" />
-      <File FileName="ICT13580049A/TabPage1.xaml" Line="11" Column="1" />
+      <File FileName="ICT13580049A/TabPage1.xaml" Line="9" Column="5" />
       <File FileName="ICT13580049A/TabPage1.xaml.cs" Line="1" Column="1" />
-      <File FileName="ICT13580049A/TabPage2.xaml" Line="11" Column="1" />
+      <File FileName="ICT13580049A/TabPage2.xaml" Line="8" Column="17" />
       <File FileName="ICT13580049A/TabPage2.xaml.cs" Line="1" Column="1" />
       <File FileName="ICT13580049A/TabPage3.xaml" Line="11" Column="1" />
       <File FileName="ICT13580049A/TabPage3.xaml.cs" Line="1" Column="1" />
-      <File FileName="ICT13580049A/MenuPage.xaml" Line="105" Column="15" />
+      <File FileName="ICT13580049A/MenuPage.xaml" Line="103" Column="15" />
       <File FileName="ICT13580049A/MenuPage.xaml.cs" Line="28" Column="19" />
       <File FileName="ICT13580049A/App.xaml" Line="10" Column="1" />
+      <File FileName="ICT13580049A/MyPage3.xaml" Line="17" Column="15" />
+      <File FileName="ICT13580049A/MyPage1.xaml" Line="17" Column="15" />
+      <File FileName="ICT13580049A/MyPage2.xaml" Line="21" Column="15" />
+      <File FileName="ICT13580049A/packages.config" Line="1" Column="1" />
+      <File FileName="ICT13580049A/NavPage3.xaml" Line="21" Column="15" />
+      <File FileName="ICT13580049A/NavPage2.xaml" Line="21" Column="15" />
+      <File FileName="ICT13580049A/NavPage1.xaml" Line="17" Column="15" />
+      <File FileName="ICT13580049A/StackPage.xaml" Line="79" Column="15" />
+      <File FileName="ICT13580049A/NavPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/AbsolutePage.xaml" Line="15" Column="15" />
+      <File FileName="ICT13580049A/AbsolutePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/GridPage.xaml" Line="43" Column="15" />
+      <File FileName="ICT13580049A/GridPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/MyPage1.xaml.cs" Line="22" Column="6" />
+      <File FileName="ICT13580049A/MyPage2.xaml.cs" Line="22" Column="10" />
+      <File FileName="ICT13580049A/MyPage3.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/NavPage2.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/NavPage3.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/StackPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -21,7 +40,7 @@
   </MonoDevelop.Ide.ItemProperties.ICT13580049A.iOS>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/StackPage.xaml" relfile="ICT13580049A/StackPage.xaml" line="1" column="1" />
+      <Breakpoint file="/Users/ict/Downloads/ICT13580049A/ICT13580049A/StackPage.xaml" relfile="ICT13580049A/StackPage.xaml" line="1" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

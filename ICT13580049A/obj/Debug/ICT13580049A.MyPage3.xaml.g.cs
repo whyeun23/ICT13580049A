@@ -11,7 +11,7 @@
 namespace ICT13580049A {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ict/Projects/ICT13580049A/ICT13580049A/MyPage3.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ict/Downloads/ICT13580049A/ICT13580049A/MyPage3.xaml")]
     public partial class MyPage3 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
