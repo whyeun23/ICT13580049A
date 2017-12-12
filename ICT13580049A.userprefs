@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0CA0D0DF-C5C3-490A-971D-4FFE0B8693F0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ICT13580049A/ICT13580049APage.xaml" Line="75" Column="15" />
+      <File FileName="ICT13580049A/ICT13580049APage.xaml.cs" Line="35" Column="48" />
+      <File FileName="ICT13580049A/App.xaml.cs" Line="23" Column="19" />
+      <File FileName="ICT13580049A/TabPage1.xaml" Line="11" Column="1" />
+      <File FileName="ICT13580049A/TabPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/TabPage2.xaml" Line="11" Column="1" />
+      <File FileName="ICT13580049A/TabPage2.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/TabPage3.xaml" Line="11" Column="1" />
+      <File FileName="ICT13580049A/TabPage3.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580049A/MenuPage.xaml" Line="105" Column="15" />
+      <File FileName="ICT13580049A/MenuPage.xaml.cs" Line="28" Column="19" />
+      <File FileName="ICT13580049A/App.xaml" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ICT13580049A.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.90C9F676-1A44-4A65-BB3E-3437FFFF96BA">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ICT13580049A.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/StackPage.xaml" relfile="ICT13580049A/StackPage.xaml" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

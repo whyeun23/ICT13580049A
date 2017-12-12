@@ -1,0 +1,63 @@
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/ICT13580049A.dll
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/ICT13580049A.pdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Core.xml
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/ict/Projects/ICT13580049A/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.csproj.CoreCompileInputs.cache
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.App.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.ICT13580049APage.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.StackPage.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.GridPage.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.AbsolutePage.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.MyPage1.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.MyPage2.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.MyPage3.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.NavPage1.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.NavPage2.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.NavPage3.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.TabPage1.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.TabPage2.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.TabPage3.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.MenuPage.xaml.g.cs
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.dll
+/Users/ict/Projects/ICT13580049A/ICT13580049A/obj/Debug/ICT13580049A.pdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/ICT13580049A.dll
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/ICT13580049A.pdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Core.xml
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.csprojResolveAssemblyReference.cache
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.csproj.CoreCompileInputs.cache
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.App.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.ICT13580049APage.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.StackPage.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.GridPage.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.AbsolutePage.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.MyPage1.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.MyPage2.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.MyPage3.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.NavPage1.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.NavPage2.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.NavPage3.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.TabPage1.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.TabPage2.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.TabPage3.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.MenuPage.xaml.g.cs
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.dll
+/Users/ict/Downloads/ICT13580049A 2/ICT13580049A/obj/Debug/ICT13580049A.pdb
